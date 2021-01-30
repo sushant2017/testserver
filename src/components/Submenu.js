@@ -8,7 +8,7 @@ class Submenu extends React.Component {
   render() {
     return (
       <div>
-        <h1>Submenu</h1>
+        <h1>Its different</h1>
       </div>
     );
   }
