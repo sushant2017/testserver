@@ -53,4 +53,4 @@ function Child(props) {
     
 }
 
-export default Child
+export default Child;
